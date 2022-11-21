@@ -93,7 +93,7 @@ The following features were used to inform the model:
 16.	 Baggage Handling (Ranked 1 to 5)
 17.	 Check-In Service (Ranked 1 to 5)
 
-Extreme Gradient Boosting Model (XGBoost) runs with great efficiency (2.05 seconds to completion and 782 MB consumed) and achieves the best peformance across the 10 pipelines tested - with a training accuracy of 95.2 and accuracy of 95.9 on the test data. The model also achieved an ROC AUC Score of 94.9, Precision of 96.1 and Recall of 92.6.
+Extreme Gradient Boosting Model (XGBoost) achieves the most optimal performance exhibiting an output test accuracy of 95, precision of 95, and ROC of 98
 
 ### 5. Author
 **Chris Bacani**
